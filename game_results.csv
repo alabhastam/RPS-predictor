@@ -65,3 +65,8 @@ rock,paper,Lose
 scis,paper,Win
 rock,rock,Tie
 rock,scis,Win
+rock,paper,Lose
+rock,paper,Lose
+rock,paper,Lose
+rock,paper,Lose
+paper,paper,Tie
