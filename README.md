@@ -16,13 +16,6 @@ This is a simple machine learning project where a bot plays the game **Rock, Pap
 4. It predicts your next move based on your last one.
 5. Then, it selects the best counter-move to try to beat you.
 
-## 📁 Files
-
-| File | Description |
-|------|-------------|
-| `rock_paper_scissors_ai.py` | Main Python script for the game with AI logic |
-| `game_results.csv` | Stores gameplay history: user choice, bot choice, and result |
-| `README.md` | Project documentation |
 
 ## 📝 Requirements
 
