@@ -1,5 +1,5 @@
-user_choice,bot_choice,result
-﻿rock,rock,Tie
+﻿
+rock,rock,Tie
 rock,rock,Tie
 rock,rock,Tie
 rock,scissors,Win
@@ -63,5 +63,3 @@ rock,paper,Lose
 paper,scis,Lose
 rock,paper,Lose
 scis,paper,Win
-rock,rock,Tie
-rock,scis,Win
